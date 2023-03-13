@@ -1,0 +1,26 @@
+{
+  "name": "lightnode",
+  "version": "1.0.0",
+  "description": "A light-weight, reusable, and object-oriented, structure (framwork) built with Node. ",
+  "main": "app.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarAboElWafa/lightNode.git"
+  },
+  "keywords": [
+    "Node",
+    "typescript",
+    "backend",
+    "api",
+    "framework"
+  ],
+  "author": "Omar A. H. Abo El-Wafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarAboElWafa/lightNode/issues"
+  },
+  "homepage": "https://github.com/omarAboElWafa/lightNode#readme"
+}
